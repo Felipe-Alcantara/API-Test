@@ -2,6 +2,8 @@
 
 Este projeto é uma interface web simples e leve para testar e interagir com a API do Google Gemini (Generative AI). Desenvolvido em um único arquivo HTML, ele permite conversar com diferentes modelos do Gemini diretamente do seu navegador, sem necessidade de instalação de servidores ou dependências complexas.
 
+### 🌐 [Acesse a Versão Web (Live Demo)](https://felipe-alcantara.github.io/API-Test/)
+
 ## ✨ Funcionalidades
 
 - **Chat Interativo:** Interface amigável estilo chat para enviar prompts e receber respostas da IA.
